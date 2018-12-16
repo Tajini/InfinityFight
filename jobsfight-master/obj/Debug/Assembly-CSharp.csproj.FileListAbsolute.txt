@@ -1,0 +1,2 @@
+C:\Users\Sinso\Desktop\jobsfight-master\jobsfight-master\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Sinso\Desktop\jobsfight-master\jobsfight-master\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
