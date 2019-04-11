@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class IAScript : MonoBehaviour {
     public Animator anim;
     public int angle, force, pourcentage;
-    public int vie = 3;
+    public int vie;
     public float speed = 1f;
     public bool attack, Xbool, Invincibility;
     public float timer, timermort, timerattack;
@@ -15,6 +15,7 @@ public class IAScript : MonoBehaviour {
     public Transform Player;
     // Use this for initialization
     void Start () {
+        vie = 3;
         anim = GetComponent<Animator>();
         life = GameObject.Find("LifePlayer2").GetComponent<Text>().text;
        
@@ -26,7 +27,7 @@ public class IAScript : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        Player = GameObject.Find("Bucheron").transform;
+        Player = GameObject.Find("Player1").transform.GetChild(0);
 
         GameObject.Find("LifePlayer2").GetComponent<Text>().text = pourcentage.ToString() + " %";
 
@@ -96,16 +97,16 @@ public class IAScript : MonoBehaviour {
 
     public void OnTriggerStay2D(Collider2D collision)
     {
-        if (collision.name == "Bucheron")
+        if (collision.name == Player.name)
         {
             timerattack += Time.deltaTime;
 
             if (attack == true && timerattack >= 1f)
             {
                 if (transform.eulerAngles.y == 180) { angle = 2; }
-                if (transform.eulerAngles.y == 0) { angle = 1; }
+                if (transform.eulerAngles.y == 0) { angle = 1; } 
                 force = 20;
-                collision.GetComponent<CommonMoves>().Damaged(angle, force);
+                collision.GetComponent<CommonMoves>().Damaged(angle, force); //Envoi des dégats au héros ciblé ainsi que de l'angle duquel il sera propulsé (Gauche/droite pour le moment, élargir à haut/bas afin de projeter) Précision du collider à améliorer
                 attack = false;
                 timerattack = 0;
 
@@ -115,7 +116,7 @@ public class IAScript : MonoBehaviour {
 
     public void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.name == "Bucheron")
+        if (collision.name == Player.name)
         {
             timerattack = 0;
 

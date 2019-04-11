@@ -1,6 +1,8 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DeathWalls : MonoBehaviour {
     public int waitrevive;
@@ -9,8 +11,8 @@ public class DeathWalls : MonoBehaviour {
     public Transform Player, IA, respawn;
 	// Use this for initialization
 	void Start () {
-        respawn = GameObject.Find("frame-6").transform;
-        Player = GameObject.Find("Bucheron").transform;
+        respawn = GameObject.Find("Respawn").transform;
+        Player = GameObject.Find("Player1").transform.GetChild(0);
         IA = GameObject.Find("EvilTwin").transform;
 		
 	}
@@ -53,12 +55,14 @@ public class DeathWalls : MonoBehaviour {
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if(collision.gameObject.name == "Bucheron" )
+        if(collision.gameObject.name == "Bucheron" || collision.gameObject.name == "Beerus")
         {
             timerdeath += Time.deltaTime;
             if (timerdeath >= 2f) {
 
                 collision.GetComponent<CommonMoves>().vie -= 1;
+                Debug.Log(collision.GetComponent<CommonMoves>().vie);
+                if (collision.GetComponent<CommonMoves>().vie == 0) { SceneManager.LoadScene("SampleScene"); }
                 collision.GetComponent<CommonMoves>().Animation(0);
                 collision.GetComponent<CommonMoves>().pourcentage = 0;
 

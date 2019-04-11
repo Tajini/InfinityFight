@@ -6,12 +6,13 @@ public class Joystick : MonoBehaviour
     public static Touch[] touches;
     public Vector2 position;
     public int touch;
-    public float InputX, InputY, JoystickX, JoystickY;
-    public Vector2 StartPos;
 
+    public float InputX, InputY; //Position de la souris pour les tests sur PC
+    public float JoystickX, JoystickY; //Position du Joystick en temps réel
     public int inputX, inputY;
-    public float MaxX, MinusX, MaxY, MinusY;
-    public int JoystickCase;
+    public Vector2 StartPos; //Position du Joystick au départ
+    public float MaxX, MinusX, MaxY, MinusY; //Carré autour du joystick duquel il ne peut sortir 
+    public int Direction;
 
 
 
@@ -19,7 +20,7 @@ public class Joystick : MonoBehaviour
     void Start()
     {
 
-        StartPos = transform.position;
+        StartPos = transform.position; //Définition de la zone du carré
         MaxX = StartPos.x + 40;
         MinusX = StartPos.x - 40;
         MaxY = StartPos.y + 40;
@@ -39,13 +40,7 @@ public class Joystick : MonoBehaviour
 
 
 
-
-
-         
-               
-           
-
-              if (Input.GetMouseButton(0))  //&& )
+              if (Input.GetMouseButton(0))  //&& ) //Fonction pour faire fonctionner le joystick sur la souris
               {
             if (Input.mousePosition.x < MaxX + 10 && Input.mousePosition.x > MinusX - 10 && Input.mousePosition.y < MaxY + 10 && Input.mousePosition.y > MinusY - 10)
             {
@@ -58,6 +53,7 @@ public class Joystick : MonoBehaviour
         // else { transform.position = StartPos; }
 
 
+        //Empêcher de sortir du carré au joystick 
         if (InputX >= MaxX && InputX <= MaxX + 30) //|| InputX <= StartPos.x - 40 || InputY >= StartPos.y + 40 || InputY <= StartPos.y - 40)
         {
             transform.position = new Vector3(MaxX, transform.position.y, transform.position.z);
@@ -78,23 +74,24 @@ public class Joystick : MonoBehaviour
         }
 
 
-        if (JoystickX >= StartPos.x + 5)
-        {
-            JoystickCase = 3;
-        }
+     
 
-        if (JoystickX <= StartPos.x - 5)
+        if (JoystickX <= StartPos.x - 5) //Joystick vers la droite
         {
-            JoystickCase = 7;
+            Direction = 1;
         }
-        if(JoystickY >= StartPos.y + 5)
+        if (JoystickX >= StartPos.x + 5) //Joystick vers la gauche
         {
-            JoystickCase = 2;
+            Direction = 2;
+        }
+        if (JoystickY >= StartPos.y + 5) //Joystick vers le haut
+        {
+            Direction = 3;
         }
         if (Input.GetMouseButton(0) == false)
         {
             transform.position = StartPos;
-            JoystickCase = 0;
+            Direction = 0;
         }
 
         /*  if (JoystickY >= StartPos.y) RECUPERATION DES 8 DIRECTIONS DIFFERENTES => a retravailler quand l'utilisation en arrivera

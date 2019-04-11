@@ -61,12 +61,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Beerus.cs" />
+    <Compile Include="Assets\Categories.cs" />
     <Compile Include="Assets\CommonMoves.cs" />
     <Compile Include="Assets\DeathWalls.cs" />
+    <Compile Include="Assets\FindPlayer.cs" />
     <Compile Include="Assets\GameManager.cs" />
-    <Compile Include="Assets\HeroScript\BasePlayer.cs" />
+    <Compile Include="Assets\HeroScript\Bucheron.cs" />
     <Compile Include="Assets\IAScript.cs" />
     <Compile Include="Assets\Joystick.cs" />
+    <Compile Include="Assets\LaunchGame.cs" />
+    <Compile Include="Assets\Script\Menu\MenuButton.cs" />
+    <Compile Include="Assets\Script\Players\PlayerClass\Categories.cs" />
+    <Compile Include="Assets\Script\Players\PlayerClass\ListPlayers.cs" />
+    <Compile Include="Assets\Script\Players\ShowPlayers.cs" />
+    <Compile Include="Assets\Script\Session.cs" />
+    <Compile Include="Assets\Script\Tuto.cs" />
+    <Compile Include="Assets\StatManager.cs" />
+    <Compile Include="Assets\TypeHeros.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Sinso/Desktop/jobsfight-master/jobsfight-master/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

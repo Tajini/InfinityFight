@@ -307,10 +307,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Beerus.cs" />
+    <Compile Include="Assets\Categories.cs" />
     <Compile Include="Assets\CommonMoves.cs" />
+    <Compile Include="Assets\DeathWalls.cs" />
     <Compile Include="Assets\GameManager.cs" />
-    <Compile Include="Assets\HeroScript\BasePlayer.cs" />
+    <Compile Include="Assets\HeroScript\Bucheron.cs" />
+    <Compile Include="Assets\IAScript.cs" />
     <Compile Include="Assets\Joystick.cs" />
+    <Compile Include="Assets\StatManager.cs" />
+    <Compile Include="Assets\TypeHeros.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Styles\Main_Dark.uss" />

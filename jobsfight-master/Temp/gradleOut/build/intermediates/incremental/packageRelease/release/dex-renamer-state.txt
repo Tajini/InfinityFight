@@ -1,4 +1,0 @@
-#Sun Dec 16 19:10:55 CET 2018
-base.0=C\:\\Users\\Sinso\\Desktop\\jobsfight-master\\jobsfight-master\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
-path.0=classes.dex
-renamed.0=classes.dex
