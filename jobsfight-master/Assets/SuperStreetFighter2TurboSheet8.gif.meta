@@ -1,0 +1,4175 @@
+fileFormatVersion: 2
+guid: f09a383d013124346b03244bef05b6f1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SuperStreetFighter2TurboSheet8_0
+    21300002: SuperStreetFighter2TurboSheet8_1
+    21300004: SuperStreetFighter2TurboSheet8_2
+    21300006: SuperStreetFighter2TurboSheet8_3
+    21300008: SuperStreetFighter2TurboSheet8_4
+    21300010: SuperStreetFighter2TurboSheet8_5
+    21300012: SuperStreetFighter2TurboSheet8_6
+    21300014: SuperStreetFighter2TurboSheet8_7
+    21300016: SuperStreetFighter2TurboSheet8_8
+    21300018: SuperStreetFighter2TurboSheet8_9
+    21300020: SuperStreetFighter2TurboSheet8_10
+    21300022: SuperStreetFighter2TurboSheet8_11
+    21300024: SuperStreetFighter2TurboSheet8_12
+    21300026: SuperStreetFighter2TurboSheet8_13
+    21300028: SuperStreetFighter2TurboSheet8_14
+    21300030: SuperStreetFighter2TurboSheet8_15
+    21300032: SuperStreetFighter2TurboSheet8_16
+    21300034: SuperStreetFighter2TurboSheet8_17
+    21300036: SuperStreetFighter2TurboSheet8_18
+    21300038: SuperStreetFighter2TurboSheet8_19
+    21300040: SuperStreetFighter2TurboSheet8_20
+    21300042: SuperStreetFighter2TurboSheet8_21
+    21300044: SuperStreetFighter2TurboSheet8_22
+    21300046: SuperStreetFighter2TurboSheet8_23
+    21300048: SuperStreetFighter2TurboSheet8_24
+    21300050: SuperStreetFighter2TurboSheet8_25
+    21300052: SuperStreetFighter2TurboSheet8_26
+    21300054: SuperStreetFighter2TurboSheet8_27
+    21300056: SuperStreetFighter2TurboSheet8_28
+    21300058: SuperStreetFighter2TurboSheet8_29
+    21300060: SuperStreetFighter2TurboSheet8_30
+    21300062: SuperStreetFighter2TurboSheet8_31
+    21300064: SuperStreetFighter2TurboSheet8_32
+    21300066: SuperStreetFighter2TurboSheet8_33
+    21300068: SuperStreetFighter2TurboSheet8_34
+    21300070: SuperStreetFighter2TurboSheet8_35
+    21300072: SuperStreetFighter2TurboSheet8_36
+    21300074: SuperStreetFighter2TurboSheet8_37
+    21300076: SuperStreetFighter2TurboSheet8_38
+    21300078: SuperStreetFighter2TurboSheet8_39
+    21300080: SuperStreetFighter2TurboSheet8_40
+    21300082: SuperStreetFighter2TurboSheet8_41
+    21300084: SuperStreetFighter2TurboSheet8_42
+    21300086: SuperStreetFighter2TurboSheet8_43
+    21300088: SuperStreetFighter2TurboSheet8_44
+    21300090: SuperStreetFighter2TurboSheet8_45
+    21300092: SuperStreetFighter2TurboSheet8_46
+    21300094: SuperStreetFighter2TurboSheet8_47
+    21300096: SuperStreetFighter2TurboSheet8_48
+    21300098: SuperStreetFighter2TurboSheet8_49
+    21300100: SuperStreetFighter2TurboSheet8_50
+    21300102: SuperStreetFighter2TurboSheet8_51
+    21300104: SuperStreetFighter2TurboSheet8_52
+    21300106: SuperStreetFighter2TurboSheet8_53
+    21300108: SuperStreetFighter2TurboSheet8_54
+    21300110: SuperStreetFighter2TurboSheet8_55
+    21300112: SuperStreetFighter2TurboSheet8_56
+    21300114: SuperStreetFighter2TurboSheet8_57
+    21300116: SuperStreetFighter2TurboSheet8_58
+    21300118: SuperStreetFighter2TurboSheet8_59
+    21300120: SuperStreetFighter2TurboSheet8_60
+    21300122: SuperStreetFighter2TurboSheet8_61
+    21300124: SuperStreetFighter2TurboSheet8_62
+    21300126: SuperStreetFighter2TurboSheet8_63
+    21300128: SuperStreetFighter2TurboSheet8_64
+    21300130: SuperStreetFighter2TurboSheet8_65
+    21300132: SuperStreetFighter2TurboSheet8_66
+    21300134: SuperStreetFighter2TurboSheet8_67
+    21300136: SuperStreetFighter2TurboSheet8_68
+    21300138: SuperStreetFighter2TurboSheet8_69
+    21300140: SuperStreetFighter2TurboSheet8_70
+    21300142: SuperStreetFighter2TurboSheet8_71
+    21300144: SuperStreetFighter2TurboSheet8_72
+    21300146: SuperStreetFighter2TurboSheet8_73
+    21300148: SuperStreetFighter2TurboSheet8_74
+    21300150: SuperStreetFighter2TurboSheet8_75
+    21300152: SuperStreetFighter2TurboSheet8_76
+    21300154: SuperStreetFighter2TurboSheet8_77
+    21300156: SuperStreetFighter2TurboSheet8_78
+    21300158: SuperStreetFighter2TurboSheet8_79
+    21300160: SuperStreetFighter2TurboSheet8_80
+    21300162: SuperStreetFighter2TurboSheet8_81
+    21300164: SuperStreetFighter2TurboSheet8_82
+    21300166: SuperStreetFighter2TurboSheet8_83
+    21300168: SuperStreetFighter2TurboSheet8_84
+    21300170: SuperStreetFighter2TurboSheet8_85
+    21300172: SuperStreetFighter2TurboSheet8_86
+    21300174: SuperStreetFighter2TurboSheet8_87
+    21300176: SuperStreetFighter2TurboSheet8_88
+    21300178: SuperStreetFighter2TurboSheet8_89
+    21300180: SuperStreetFighter2TurboSheet8_90
+    21300182: SuperStreetFighter2TurboSheet8_91
+    21300184: SuperStreetFighter2TurboSheet8_92
+    21300186: SuperStreetFighter2TurboSheet8_93
+    21300188: SuperStreetFighter2TurboSheet8_94
+    21300190: SuperStreetFighter2TurboSheet8_95
+    21300192: SuperStreetFighter2TurboSheet8_96
+    21300194: SuperStreetFighter2TurboSheet8_97
+    21300196: SuperStreetFighter2TurboSheet8_98
+    21300198: SuperStreetFighter2TurboSheet8_99
+    21300200: SuperStreetFighter2TurboSheet8_100
+    21300202: SuperStreetFighter2TurboSheet8_101
+    21300204: SuperStreetFighter2TurboSheet8_102
+    21300206: SuperStreetFighter2TurboSheet8_103
+    21300208: SuperStreetFighter2TurboSheet8_104
+    21300210: SuperStreetFighter2TurboSheet8_105
+    21300212: SuperStreetFighter2TurboSheet8_106
+    21300214: SuperStreetFighter2TurboSheet8_107
+    21300216: SuperStreetFighter2TurboSheet8_108
+    21300218: SuperStreetFighter2TurboSheet8_109
+    21300220: SuperStreetFighter2TurboSheet8_110
+    21300222: SuperStreetFighter2TurboSheet8_111
+    21300224: SuperStreetFighter2TurboSheet8_112
+    21300226: SuperStreetFighter2TurboSheet8_113
+    21300228: SuperStreetFighter2TurboSheet8_114
+    21300230: SuperStreetFighter2TurboSheet8_115
+    21300232: SuperStreetFighter2TurboSheet8_116
+    21300234: SuperStreetFighter2TurboSheet8_117
+    21300236: SuperStreetFighter2TurboSheet8_118
+    21300238: SuperStreetFighter2TurboSheet8_119
+    21300240: SuperStreetFighter2TurboSheet8_120
+    21300242: SuperStreetFighter2TurboSheet8_121
+    21300244: SuperStreetFighter2TurboSheet8_122
+    21300246: SuperStreetFighter2TurboSheet8_123
+    21300248: SuperStreetFighter2TurboSheet8_124
+    21300250: SuperStreetFighter2TurboSheet8_125
+    21300252: SuperStreetFighter2TurboSheet8_126
+    21300254: SuperStreetFighter2TurboSheet8_127
+    21300256: SuperStreetFighter2TurboSheet8_128
+    21300258: SuperStreetFighter2TurboSheet8_129
+    21300260: SuperStreetFighter2TurboSheet8_130
+    21300262: SuperStreetFighter2TurboSheet8_131
+    21300264: SuperStreetFighter2TurboSheet8_132
+    21300266: SuperStreetFighter2TurboSheet8_133
+    21300268: SuperStreetFighter2TurboSheet8_134
+    21300270: SuperStreetFighter2TurboSheet8_135
+    21300272: SuperStreetFighter2TurboSheet8_136
+    21300274: SuperStreetFighter2TurboSheet8_137
+    21300276: SuperStreetFighter2TurboSheet8_138
+    21300278: SuperStreetFighter2TurboSheet8_139
+    21300280: SuperStreetFighter2TurboSheet8_140
+    21300282: SuperStreetFighter2TurboSheet8_141
+    21300284: SuperStreetFighter2TurboSheet8_142
+    21300286: SuperStreetFighter2TurboSheet8_143
+    21300288: SuperStreetFighter2TurboSheet8_144
+    21300290: SuperStreetFighter2TurboSheet8_145
+    21300292: SuperStreetFighter2TurboSheet8_146
+    21300294: SuperStreetFighter2TurboSheet8_147
+    21300296: SuperStreetFighter2TurboSheet8_148
+    21300298: SuperStreetFighter2TurboSheet8_149
+    21300300: SuperStreetFighter2TurboSheet8_150
+    21300302: SuperStreetFighter2TurboSheet8_151
+    21300304: SuperStreetFighter2TurboSheet8_152
+    21300306: SuperStreetFighter2TurboSheet8_153
+    21300308: SuperStreetFighter2TurboSheet8_154
+    21300310: SuperStreetFighter2TurboSheet8_155
+    21300312: SuperStreetFighter2TurboSheet8_156
+    21300314: SuperStreetFighter2TurboSheet8_157
+    21300316: SuperStreetFighter2TurboSheet8_158
+    21300318: SuperStreetFighter2TurboSheet8_159
+    21300320: SuperStreetFighter2TurboSheet8_160
+    21300322: SuperStreetFighter2TurboSheet8_161
+    21300324: SuperStreetFighter2TurboSheet8_162
+    21300326: SuperStreetFighter2TurboSheet8_163
+    21300328: SuperStreetFighter2TurboSheet8_164
+    21300330: SuperStreetFighter2TurboSheet8_165
+    21300332: SuperStreetFighter2TurboSheet8_166
+    21300334: SuperStreetFighter2TurboSheet8_167
+    21300336: SuperStreetFighter2TurboSheet8_168
+    21300338: SuperStreetFighter2TurboSheet8_169
+    21300340: SuperStreetFighter2TurboSheet8_170
+    21300342: SuperStreetFighter2TurboSheet8_171
+    21300344: SuperStreetFighter2TurboSheet8_172
+    21300346: SuperStreetFighter2TurboSheet8_173
+    21300348: SuperStreetFighter2TurboSheet8_174
+    21300350: SuperStreetFighter2TurboSheet8_175
+    21300352: SuperStreetFighter2TurboSheet8_176
+    21300354: SuperStreetFighter2TurboSheet8_177
+    21300356: SuperStreetFighter2TurboSheet8_178
+    21300358: SuperStreetFighter2TurboSheet8_179
+    21300360: SuperStreetFighter2TurboSheet8_180
+    21300362: SuperStreetFighter2TurboSheet8_181
+    21300364: SuperStreetFighter2TurboSheet8_182
+    21300366: SuperStreetFighter2TurboSheet8_183
+    21300368: SuperStreetFighter2TurboSheet8_184
+    21300370: SuperStreetFighter2TurboSheet8_185
+    21300372: SuperStreetFighter2TurboSheet8_186
+    21300374: SuperStreetFighter2TurboSheet8_187
+    21300376: SuperStreetFighter2TurboSheet8_188
+    21300378: SuperStreetFighter2TurboSheet8_189
+    21300380: SuperStreetFighter2TurboSheet8_190
+    21300382: SuperStreetFighter2TurboSheet8_191
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1489
+        width: 39
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1550288aed21df4f91e1c9753f987e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1545
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e8b9b6e431bd247b170495e31d7d82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1545
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c5c87c1019d9f4f887be38b40a74c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1545
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de3d45598565ea439eb1d156d3d41bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1545
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85462709b0c4b8e45ba451882afa2427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1489
+        width: 39
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9da5dec38e90549b83b21d9c6b8329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1489
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039885fcb83c2a649afea1a0fed4d106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1432
+        width: 45
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2132e458bc00a4f983c71ffe23103f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1489
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435675bd68d77fc478c12c67220f65ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1489
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f30e4bf3fd1a9541b5f5e2ccc118963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1432
+        width: 45
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b86be20a015b5545aab58fe3598ee8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1489
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b87b19d90b3db44b9cc5b06423ae53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1432
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbae8a9de7d257e448661353725ee45c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1432
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c6e17fae87a6c4383daf0987b948aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1377
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffcc393d0e725b448ceb7232be80246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1377
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce96d81ca02b6441b37c15eaa4220e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1377
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e81b7d9474a38643a3a09a5413ffbfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1377
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56555fddc676d1e4fa4e1b5c7add36e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1377
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f54d9016cd6bd4aa50fbf6eb091629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1377
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9ad669a128ac042bbce33e00908751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1329
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eadd2cd5dce34447b2a3bda22d5c572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1329
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687ac86566a576741929d9a0a35239ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1329
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06427bb95aad7264e99c44efea28c134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1329
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524cc5ce900d6524792932b33a95d6e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1279
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1933a15aaebe4fb295ba63a2de4ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1279
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c279a9d5e7bda4699774ed428ff80b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1279
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c61b0893ea364aa9356d2490bdd3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1279
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adb7906253d61a49a6242eb7c50c205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1242
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4cf40767943c44934b8621a1c13f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1242
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e189f2e198ce1be4f80a6cbfc67c2b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1206
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e38e855e589643488103aee193162a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1206
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea1a7502effdb408cfc73ddf0cea82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1242
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b581cbfc8b000f49add6223f38bb70e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1242
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e17792995b73f545b6036450d766e12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1206
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17af15da1354af849a0ef3a285e02107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1206
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6613614ae5fde142b922cea2cf69c55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1133
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a256cb21313e94b893a9404ace7d67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1133
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9538acb71210b1b45afcab05d9c53c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1133
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6894df6c50eed4490ad7ee9aea850e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_39
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1133
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c13cf3043dd2744a2983de5e294f6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1133
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059cc62cbdde2bc4781583c80cc52e90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1133
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc0f00c10c2cbc4cac799cbb8b5c684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1095
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f21024d28196fe4590f87aee09b8b3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_43
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1095
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d34020c05fa0dc4b9c587280bc921bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_44
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1059
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc20e33c129335a408ef39a321815487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1059
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c33195cea808ea4e84438dbb7352589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1095
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5ba2e81a571b0409d06c6022a4816b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_47
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1095
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6e5b73fa9c6dc4eb8db27a99f8ff68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_48
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1059
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14460d2ea41c0c44a89c19b4f19be0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1059
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055fc1acb0b77634fb16b61710d53c52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1023
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0f41e60df5a2144a025cda660ed0e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1023
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b138352fecf8bad458ef7410ad5c43fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_52
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1023
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf08fb9180cfa44b8a4577dd7dd0bf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1023
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35693ed74e53f4b4b8c1e3f49ce5ccfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_54
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1023
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195e32d313d514743ab4c4965653f5b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1023
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c295b3baca909439242436d0f56495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 915
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c34c6ced6cb7149b64ac7f90016bbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 959
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7341d918bd53c0548bb612445e3e9bcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_58
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 959
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dfd60d4830c50488ad54d139feb385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 959
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196abd22529a974b8b411eaea9792a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_60
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 959
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1f2122f3ff9764b8bed6fbf7e155e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_61
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 959
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de733a50f908a8a438ebc166e1d2c2b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 959
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f523c25e2d73c6408184c3db0b54a67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_63
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 959
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea08946d7d0ba9498c75cb7a15a2eb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_64
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 959
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d71df71fc3da4449b3bd21638c07976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_65
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 915
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2294482e1a0444e839f41d6c0a4f16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_66
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 915
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5822a7e0ce192ed43b158a1bb3c22ffe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_67
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 915
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca4c485615cb924ca776a561cfe5a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_68
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 915
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7263b6e7ffc60c34b9bad45f4f7da9d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_69
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 915
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc58f1cf7697654d8ad41c709a5c1d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_70
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 915
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeb435a42926ea44b45a611ba440adf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 915
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a281e776d01a2a849a0107ed68d05444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_72
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 861
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a31283a8da5f4f9661607e68be419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_73
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 861
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93e0be4418e59741927f10cf881e982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_74
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 861
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7447cc54ea0984cb1459e5402f99c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 861
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6778f618cd952fb458adead9e55bfdbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_76
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 861
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da0048ae7c774e40a8eeaae0a957ffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_77
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 861
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574d23949818f141a87adfa0d18a0b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 861
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aa6c1dcc7ecd94e84a79bf0348e82c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_79
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 861
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c19768e49050e4baae3530e67dd6fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 808
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b8fd6d709579c4b9de63e6190c857e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 808
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952340c61053c1c4bb37fe952f058108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_82
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 808
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c3499ccea1e20428bec223daa72403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_83
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 808
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976de8fd860b3a843826166f66c8f13f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_84
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 808
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e8496c562f5224a9fc243d24fb823d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_85
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 808
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1834f4f65c98f70479df1f96718d7aac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 808
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d467093d85a89f745beee735bae06a0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_87
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 808
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadb46f4e2ea9f646b92385ac34244cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_88
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 808
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4083723f6ef86409ee85374bb11162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_89
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 808
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ede7cba5f838846a5ec6622ab5c270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_90
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 748
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034a1b2ac9cf78a4f8bb76bb0a9a35ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 748
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53356175f4f99be49a888ba60eeda2de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 748
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685599adc00979e4cbdf47bdf4b3086b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_93
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 748
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d66775ffbca149b14b5ab5f65d943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_94
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 748
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15116b1ee927f494fbbd6ab51157c2b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_95
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 748
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0001c0c954c520849b79246bfd7ea337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_96
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 748
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aed6440ad1a4234aab8896db1e00f99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_97
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 748
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ae92d0eb89a514b89508e963abb99a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_98
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 690
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8050b3996a908134ba4375b8c63623c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_99
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 690
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602948a412703444e8785d1c57cab0f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_100
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 690
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7971548a30e83c244a65def98e44a8db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_101
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 690
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71e904731bb4b44acb959f0c53eb54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_102
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 690
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d20246df19c5c04eace09183e80e6e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_103
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 690
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cbae41886ec8c439c8509afdb90d3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_104
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 690
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93342edf9e9a58043a82f8c841436597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_105
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 690
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781dbb584bb5d5348b310cb07254a3d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 623
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c843e6ea693f4cd4db2a25ea72cd8d5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_107
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 623
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbab314e80c756a4d8b910560a240028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_108
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 623
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5879a14df6d0c439246b344dab45dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_109
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 623
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2248b800890161439de77f84066e3b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_110
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 623
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e049525a861790b46a328be1a137aeb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_111
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 623
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b918d516ecc9b0c44b057189ba7f0066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_112
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 561
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da478740acc4f964ab06ca4e9945ef7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_113
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 560
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b2f21405e03894fa11b0731839e889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 560
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5af5c6b4b563445a5b89bfad3d8fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_115
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 560
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f740f9713f9d840b52bff3531b9949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_116
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 560
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c05461c95f1cf240b8564e590bd9cda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_117
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 560
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73a54bdba8102448bd3a6b33ebcecc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_118
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 560
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f5d91654326ed4aae070f694498534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_119
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 561
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f414817d031114ebe295b928a96b75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_120
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 489
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9181ce60a35d7f14dbb601cef76a97b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_121
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 489
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8af84dbcc548545a8fe959a4e886d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_122
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 489
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0275beb2e6bfdea4b80c8252ef203181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_123
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 489
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a725947bde66ca448a4877ea02f57aab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_124
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 489
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4dd05c14862e34fb81edc170763595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_125
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 489
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e0b0fea49fdc34ea618efe007922ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_126
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 489
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a650618f1e14ef149a90010631bde8f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_127
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 489
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad5601f3db400e4c80a4d5d5700168d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_128
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 432
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ea3c7d9aee2f742a320bd3f693aa94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_129
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 432
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46775392a964fab4aad372fd05abd9e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_130
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 432
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82de9002c11c84b44b50bea7c30f3912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_131
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 432
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da92755b72bf1547b1de6990c3a1631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_132
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 432
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3301c5edd53e93419d21c94495cfd51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_133
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 432
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30c8f5ca982025459d2c1a19ae82b4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_134
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 432
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86d9316cece8aa47a474970dbfe8e2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_135
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 432
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ed6106cf7ff3b439f1184c9ba42f9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_136
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 397
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da68e732cd2bd468ccac9a0ee14bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_137
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 397
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871dab76177ca024cb6ff59d41b37eb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_138
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 397
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998bbba70eaccbe4ab9937dbafe7268c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_139
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 397
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c101932dd1fc41826ec4180cedd45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_140
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 397
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c85e5427a9104dadbe3ab9bd23726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_141
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 397
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bae671c5e7a284da3bc4a903115b0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_142
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 343
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d1eb4ea961c504cb895a811a8d325f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_143
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 343
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f249c41cd8b66143982508b0a427088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_144
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 343
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb65ce396ee6a944a8ec9014f6112734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_145
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 343
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfca0120204cbdb4c8d19914be2cd863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_146
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 343
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5a98db4deaf1a4896e991a48e0d3d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_147
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 343
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f9c90029ec76f46b966783b7f17598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_148
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 343
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aff41f3cedf98e46af7e027f65f5e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_149
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 343
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8244dada7f5bcce45b5c8a068aa623b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_150
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 290
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98db1b49cb625d7459c63e0e5129bc6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_151
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 290
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce21b77da6266d4ea1bb40104725145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_152
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 290
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a41bc9efa75324580c3a20f32c04fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_153
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 290
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79cc996968117f44abf048cfca3844f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_154
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 290
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5e27551c079ae4fa3f906a23b6d8d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_155
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 290
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e841d3ed433012b44a2f4c612a4617cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_156
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 290
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f25f34cb75138c48bb2abbc68179fc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_157
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 290
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f4dad5de8b24f4fbd8e2e8b4f45d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_158
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 251
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59e0dadf07f37f47ab63996aa138cc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_159
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 251
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f401517831fc164ca218a8e27734a66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_160
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 251
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3f72af51897b44cb127f518d6d7379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_161
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 251
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52995df7b11b22e418fa6c0003a59ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_162
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 251
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16084cb48f3853a468fe648354463742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_163
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 251
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e8ba533318a5843a501f6feb0e9944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_164
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf0f4a894c3ff47a96b74e4fc13791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_165
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 184
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fca46775f654914aaef9f5953b28553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_166
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 184
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b3e01402bf43448851149a445f95b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_167
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 184
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5362752ca01fb46b63290cc8bf418c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_168
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 184
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6f078c283bb2b4685ac314e87509dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_169
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 130
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd3a4b1204f37a49bf3c99017e02cd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_170
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 130
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0777fed8b235f408dec45acfb9f7f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_171
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1034cd185c75184eb23834636f295be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_172
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 130
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94da2b31d24389b4caf183deb68b5e46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_173
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 130
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1e12ad2a578a24a85c461ea1dcca07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_174
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd76e668f91276498ef3246744c1822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_175
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 76
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55970e57a6a8564ab21d2ecb5ca2718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_176
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 37
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402ee50ec5e54924aaa7882bb734c65e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_177
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 76
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2083f1e0a76cf0c459e43e8a0b70ea37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_178
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 76
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938bd2f3d87b37b4a8e279c781f9f7a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_179
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1
+        width: 37
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef55a9da1d8244a818b2303a3cc965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_180
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 76
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d056e779a7f0534429664be0c6dd332a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_181
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 76
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b86a5cac1ca9f64aa6d72e5284324e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_182
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a1d739e5f2bbc4297c85aa54edd5b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_183
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4788e97d73af81449889297d96dbb2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_184
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6b09dffc10d16409795c351a670a4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_185
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1
+        width: 21
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eea583461182774dad6ac9a1f69265f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_186
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158c8dadb368476488445ebfa0d07d32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_187
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da07f57740552004891cb309c756e943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_188
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 21
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e448a358cf24c34b8f763dd6e92c7c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_189
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655292ee67d55254b800b0ad2d62e764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_190
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690ab54b61bdcaf41b8d7777d6ed6988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperStreetFighter2TurboSheet8_191
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aa6e50b69c45246b3df8a0f398c044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 604180f11c2734d42bf71a32835a5eb3
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
